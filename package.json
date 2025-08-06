@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.11",
+    "react-toastify": "^11.0.5",
+    "tailwindcss": "^4.1.11",
+    "uuid": "^11.1.0"
+  }
+}
